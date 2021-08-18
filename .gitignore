@@ -8,3 +8,4 @@ node_modules
 whitesource*
 enterprise-suite/console-operator/helm-charts
 __pycache__
+enterprise-suite/elarian-values.yaml
